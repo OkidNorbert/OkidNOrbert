@@ -32,10 +32,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 ---
@@ -50,12 +49,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okidnorbert&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=okidnorbert&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/okidi-norbert-881ba3305" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Okidi%20Norbert-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
